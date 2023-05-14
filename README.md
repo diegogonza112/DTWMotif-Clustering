@@ -9,6 +9,9 @@ https://sites.google.com/site/dtwmotifdiscovery/home?pli=1
 
 All of the code in k_driver.m was written by myself and used in conjunction with tweaks made throughout this repository to produce a motif clustering algorithm that leverages dynamic time warping to identify said motifs. The aforementioned tweaks were done by both myself and my research supervisor, Dr. David Kreindler.
 
+If you would like to read more about the research project a pdf version of my final report is available here:
+https://drive.google.com/file/d/1DuLLCUwNsEZNe71H3D-NDEGPtskEce2A/view?usp=sharing
+
 If you have any questions don't hesistate to reach out: diego.gonzalezdelgado@mail.utoronto.ca
 
 # Disclaimer
