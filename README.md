@@ -12,8 +12,8 @@ All of the code in k_driver.m was written by myself and used in conjunction with
 If you would like to read more about the research project a pdf version of my final report for the course is available here:
 https://drive.google.com/file/d/1DuLLCUwNsEZNe71H3D-NDEGPtskEce2A/view?usp=sharing
 
-The poster presented by Dr. Kreindler at U of T's Department of Psychology Research Day
-[DPRD 23Jun09.pdf](https://github.com/diegogonza112/DTWMotif-Clustering/files/12410293/DPRD.23Jun09.pdf)
+The poster presented at U of T's Department of Psychology Research Day 2023 can be accessed here:
+https://drive.google.com/file/d/1y9efjGIeR7uMZBoGqjmxt4nbSiwcvBwb/view?usp=sharing
 
 If you have any questions don't hesistate to reach out: diego.gonzalezdelgado@mail.utoronto.ca
 
